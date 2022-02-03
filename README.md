@@ -10,12 +10,12 @@ This application depends on Swagger📝, Express, Typescript, Docker🐋, Postgr
 
 # Second step you need to add .env file with this example ↓
 
-    POSTGRES_HOST=db
-    POSTGRES_PORT=5432
-    POSTGRES_USER=user
-    POSTGRES_PASSWORD=pass 
-    POSTGRES_DB=db
-    PORT=3000
+    POSTGRES_HOST=
+    POSTGRES_PORT=
+    POSTGRES_USER=
+    POSTGRES_PASSWORD=
+    POSTGRES_DB=
+    PORT=
     
 # Third step u should up application with this command ↓  
 
